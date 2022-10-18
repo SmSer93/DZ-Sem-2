@@ -30,10 +30,15 @@
 ### Code Block
 
 ```
-white (index<size) do
+while (index<size) do
 
 if (munbers[index]>max then
 max=numbers[index]
 index=index+1
 print(max)
 ```
+
+---
+>HOMINEM AMPLIUS OCULIS, QUAM AURIBUS CREDUNT
+>
+>*Seneca*
